@@ -94,3 +94,24 @@ a {
 .header .action {
     margin-left: 49px;
 }
+
+/* HERO */
+
+.hero {
+    padding-top: 56px;
+    background: #fffcf4;
+}
+
+.hero .body {
+    display: flex;
+}
+
+/* LEFT */
+.hero .media-block {
+    width: 48%;
+}
+
+/* RIGHT */
+.hero .content-block {
+    width: 52%;
+}
